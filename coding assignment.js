@@ -222,7 +222,7 @@ function password(m){
         console.log ("Go Home Roger!");
     }
 }
-password("pigglywiggly");
+password("pigglywiggly1");
 //This code checks the password. 
 //if the password is correct the console will respond with "You May Enter". 
 //if the password is incorrect it will respond with "Go Home Roger!".*/
